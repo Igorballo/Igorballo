@@ -64,7 +64,4 @@
   
   <a href="https://app.daily.dev/Dr_Hfx"><img src="https://api.daily.dev/devcards/12b2e2e9c1fb42ae8d933bb8ad89493a.png?r=oge" width="400" alt="Igor Ballo's Dev Card"/></a>
 
-<h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 
