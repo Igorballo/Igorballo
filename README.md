@@ -19,7 +19,7 @@
 
 - 🌎 I'm from Togo / Lomé
 
-- 🌱 I’m currently learning Node Js, Web3. 
+- 🌱 I’m currently learning Web3. 
 
 - 👯 I’m looking to collaborate on projects, tech articles... 
 
